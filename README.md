@@ -25,12 +25,11 @@
 
 ---
 
-### 📊 GitHub Stats:tbd
 
 
 ---
 
-### 🚀 Featured Projects:tbd
+
 
 ---
 
