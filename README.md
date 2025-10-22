@@ -1,6 +1,6 @@
-## 👋 Hello, I'm Mohammed!
+## Hello, I'm Mohammed!
 
-🚀 **Aspiring Cloud Engineer | AWS | DevOps | Python**
+ **Aspiring Cloud Engineer | AWS | DevOps | Python**
 
  I'm passionate about cloud computing, DevOps, and building scalable solutions.
 
