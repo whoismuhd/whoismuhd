@@ -1,8 +1,8 @@
 ## Hello, I'm Mohammed!
 
- **Aspiring Cloud Engineer | AWS | DevOps | Python**
+ **Aspiring Cloud Engineer | AWS | Cyber Security | Python**
 
- I'm passionate about cloud computing, DevOps, and building scalable solutions.
+ I'm passionate about cloud computing, Cyber Security, and building scalable solutions.
 
 ---
 
