@@ -25,8 +25,8 @@
 
 ---
 
-### 🌎 Connect With Me:
+###  Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mohammed-auwalu-23241a23a)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/whoismuhd)
 
-💡 Always open to learning and collaborating!
+ Always open to learning and collaborating!
